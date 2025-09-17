@@ -8,7 +8,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
-<img src=" ./assets/img/schema.png">
+<img src="./assets/img/schema.png">
 
 ---
 
