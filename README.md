@@ -1,12 +1,12 @@
 # **Projet : EatSmart**
 
-**Etudiants :** (Nom des étudiants)
+**Etudiant :** COSTAMAGNA Mathieu
 
 ---
 
 ### **1. Description du projet**
 
-(Complétez ici avec la description du projet présentée en classe.)
+Le projet à pour but d'établir une liaison entre client et cuisine afin de prendre les commandes des clients et de les commnuniqué en cuisine. 
 
 <img src="./assets/img/schema.png">
 
@@ -16,26 +16,26 @@
 
 #### **3.1 Frontend (eatSmartFront)**
 
-- **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du front-office.)
+- **Fonctionnalité 1 :**
+  Programmation du menu 
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du front-office.)
+  Gestion du menu
   
 #### **3.2 Backend (eatSmartBack)**
 
 - **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du back-office.)
+  Gestion de l'état de la commande
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du back-office.)
+  historique de commande
 
 ---
 
 ### **4. Technologies utilisées**
 
-- **Frontend :** (Technologies prévues)
-- **Backend :** (Technologies prévues)
-- **Base de données :** (Technologies prévues)
+- **Frontend :** HTML/CSS/JS/PHP
+- **Backend :** PHP
+- **Base de données :** SQL
 
 ---
