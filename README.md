@@ -8,7 +8,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
-<img src=" ./assets/img/Screenshot 2025-09-17 150718.png">
+<img src=" Schèma Projet">
 
 ---
 
