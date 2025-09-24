@@ -39,3 +39,7 @@ Le projet à pour but d'établir une liaison entre client et cuisine afin de pre
 - **Base de données :** SQL
 
 ---
+
+<img src="./assets/img/MCD.png">
+<img src="./assets/img/MLD.png">
+<img src="./assets/img/MPD.png">
